@@ -1,1 +1,1 @@
-# Servicio-Social-ENP4
+# Regresión Logística para Predecir Enfermedades Cardiácas
